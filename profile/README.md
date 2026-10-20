@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-  <img alt="TAO: Building for the AI-native era." src="banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="tao-dark.png">
+  <img alt="TAO: Building for the AI-native era." src="tao-light.png" width="100%">
 </picture>
 
 <br>
